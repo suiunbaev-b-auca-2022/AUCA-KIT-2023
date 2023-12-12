@@ -237,9 +237,6 @@
         width: 500px;
         height: 250px;
       }
-      .contacts {
-        margin-left: 15px;
-      }
     </style>
   </head>
   <body>
@@ -267,9 +264,9 @@
         <ul class="menu-items">
           <!-- TODO -->
           <li><a href="#home" style="color: white">Home</a></li>
-          <li><a href="#about" style="color: white">About</a></li>
+          <li><a href="about" style="color: white">About</a></li>
           <li><a href="#services1" style="color: white">Services</a></li>
-          <li><a href="#contacts1" style="color: white">Contact</a></li>
+          <li><a href="contacts" style="color: white">Contacts</a></li>
           <li>
             <a
               href="https://github.com/suiunbaev-b-auca-2022/githubpages2/blob/main/goals.md"
@@ -362,7 +359,7 @@
         }
       </script> -->
 
-      <section class="contacts">
+      <!-- <section class="contacts">
         <h2 id="contacts1">Contacts</h2>
         <p>Name: Baitur Suiunbaev</p>
         <p>Organization: BS Company</p>
@@ -381,7 +378,7 @@
         <p>Email: sales@mywebsite.com</p>
         <p>Phone: +996 (770) 123456</p>
         <p></p>
-      </section>
+      </section> -->
       <li><a href="#home">Go Up</a></li>
     </main>
     <footer>&copy; 2023 My Website</footer>
